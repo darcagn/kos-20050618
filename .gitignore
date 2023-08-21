@@ -1,0 +1,9 @@
+sh-elf/
+arm-elf/
+dc-chain/binutils-*
+dc-chain/build-*
+dc-chain/gcc-*
+dc-chain/logs/
+dc-chain/newlib-*
+kos-ports/
+kos/

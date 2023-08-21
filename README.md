@@ -51,6 +51,8 @@ Enter KOS directory and move `environ.sh` script into place:
 cd /opt/toolchains/dc/kos-20050618/kos
 mv ../environ.sh.sample environ.sh
 ```
+You can adjust the environ.sh script with a text editor now if you want to deviate from the standard settings.
+
 Set environment and build KallistiOS:
 ```
 source environ.sh

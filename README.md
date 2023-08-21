@@ -65,6 +65,10 @@ cd ../kos-ports
 make
 ```
 
+# Issues
+- `utils/vqenc` doesn't seem to compile on my system, but swapping this directory out with the modern KallistiOS version of `utils/vqenc` works fine.
+- A few examples don't seem to compile, but I haven't tried to troubleshoot yet.
+
 # Resources
 [DCEmulation Forums](http://dcemulation.org/phpBB/viewforum.php?f=29): Goldmine of Dreamcast development information and history  
 [dreamcast.wiki](http://dreamcast.wiki): Large collection of tutorials and articles for beginners  
